@@ -1,0 +1,7 @@
+{
+  "name": "GamingOrganizer_WS",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
